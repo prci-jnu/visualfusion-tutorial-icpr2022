@@ -125,17 +125,11 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 
 # Contact and Preference
 
-Lead organiser: Xiao-Jun Wu, E-mali: wu_xiaojun@jiangnan.edu.cn
+**Lead organiser:** Xiao-Jun Wu, E-mali: wu_xiaojun@jiangnan.edu.cn
 
-Preference: Half-day On-line tutorial
+**Preference:** Half-day On-line tutorial
 
 
-
-<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
 
 [xiao-jnu-wu]: http://ai.jiangnan.edu.cn/info/1013/1500.htm
 [hui-li]: https://hli1221.github.io/
