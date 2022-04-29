@@ -80,16 +80,12 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 	<tr>
 		<td>
 		<img src="./images/xiaojun-wu.png" style="float:left"/>
-		</td>
-		<td>
 		<b>Xiao-Jun Wu</b> (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.
 		</td>
 	</tr>
 	<tr>
 		<td>
 		<img src="./images/tianyang-xu.jpg" style="float:left"/>
-		</td>
-		<td>
 		<b>Tianyang Xu</b> (tianyang.xu@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China.
 		His research interests include visual tracking and deep learning. 
 		</td>
@@ -97,24 +93,18 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 	<tr>
 		<td>
 		<img src="./images/huili.jpg" style="float:left"/>
-		</td>
-		<td>
 		<b>Hui Li</b> (lihui.cv@jiangnan.edu.cn), Lecturer at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China. His research interests include image fusion, and deep learning. 
 		</td>
 	</tr>
 	<tr>
 		<td>
 		<img src="./images/tianyang-xu.jpg" style="float:left"/>
-		</td>
-		<td>
 		<b>Xiaoqing Luo</b> (xqluo@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China. Her research interests include image fusion, pattern recognition, and other problems in image technologies.
 		</td>
 	</tr>
 	<tr>
 		<td>
 		<img src="./images/josef-kittler.png" style="float:left"/>
-		</td>
-		<td>
 		<b>Josef Kittler</b> (j.kittler@surrey.ac.uk), Distinguished Professor of Machine Intelligence at the Centre for Vision, Speech and Signal Processing, University of Surrey, Guildford, U.K. He conducts research in biometrics, video and image database retrieval, medical image analysis, and cognitive vision. He published the textbook Pattern Recognition: A Statistical Approach and about 1000 scientific papers. His publications have been cited by around 70,000 times. He is series editor of Springer Lecture Notes on Computer Science. He currently serves on the Editorial Boards of Pattern Recognition Letters, Pattern Recognition and Artificial Intelligence, Pattern Analysis and Applications. He also served as a member of the Editorial Board of IEEE Transactions on Pattern Analysis and Machine Intelligence during 1982-1985. He served on the Governing Board of the International Association for Pattern Recognition (IAPR) as one of the two British representatives during 1982-2005, and the President of IAPR during 1994-1996.
 		</td>
 	</tr>
