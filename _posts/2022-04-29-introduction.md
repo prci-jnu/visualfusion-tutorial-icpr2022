@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "Tutorial Proposal: Visual Fusion for Pattern Recognition"
 layout: post
 ---
 
