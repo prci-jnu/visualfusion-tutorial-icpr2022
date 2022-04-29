@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: default
 title: "Home"
 ---
@@ -7,19 +7,7 @@ title: "Home"
   {% include home.html %}
 {% else %}
   {% include archive.html title="Posts" %}
-{% endif %} -->
+{% endif %}
 
----
-layout: default
----
 
-<article>
-  {% include meta.html post=page %}
-  {{ content }}
-  {% if page.comments != false and site.comments.isso or site.comments.disqus %}
-    <hr>
-    {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
-    {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
-    <noscript>Please enable JavaScript to view comments.</noscript>
-  {% endif %}
-</article>
+
