@@ -77,7 +77,7 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 
 <div>
 	<img src="./images/xiaojun-wu.png" width="200px" />
-	<p>Xiao-Jun Wu (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.</p>
+	**Xiao-Jun Wu** (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.
 </div>
 
 Tianyang Xu (tianyang.xu@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China.
