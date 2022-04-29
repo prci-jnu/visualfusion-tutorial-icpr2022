@@ -3,7 +3,7 @@ title: "Tutorial Proposal: Visual Fusion for Pattern Recognition"
 layout: post
 ---
 
-<h3>Authors: Xiao-Jun Wu, Tianyang Xu, Hui Li, Xiaoqing Luo, Josef Kittler</h3>
+<h3>Authors: [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], Xiaoqing Luo, [Josef Kittler][josef-kittler]</h3>
 
 
 # Introduction
@@ -100,3 +100,8 @@ Preference: Half-day On-line tutorial
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/ -->
+
+[xiao-jnu-wu]: http://ai.jiangnan.edu.cn/info/1013/1500.htm
+[hui-li]: https://hli1221.github.io/
+[tianyang-xu]: https://github.com/XU-TIANYANG
+[josef-kittler]: https://www.surrey.ac.uk/people/josef-kittler
