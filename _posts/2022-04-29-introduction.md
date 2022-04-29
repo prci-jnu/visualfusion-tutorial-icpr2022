@@ -21,7 +21,7 @@ To this end, the tutorial will offer a) an overview of all the above plus other 
 
 # Topics
 
-## Visual fusion basics 
+### Visual fusion basics 
 In the era of knowledge explosion, the attention to visual fusion technology has proliferated due to the significant development and availability of different kinds of sensor devices. 
 
 Visual fusion is an important branch of information fusion that originated in the mid-1980s, which attempts to simulate biological perception and cognitive processes of objective reality. The pipeline of the visual fusion system contains four parts: spatiotemporal registration, data preprocessing, data fusion, and data post-processing. Among these, the phase of data fusion is the primary concern, where the useful information from visual sources captured in the same scene is extracted and combined into a compact form of visual information representation, which leads to a more comprehensive, more robust, less redundant and less uncertain system \cite{li2013image}. 
