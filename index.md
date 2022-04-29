@@ -3,7 +3,7 @@ title: "Tutorial Proposal: Visual Fusion for Pattern Recognition"
 layout: post
 ---
 
-Authors: [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], Xiaoqing Luo, [Josef Kittler][josef-kittler]
+<h3>Authors:</h3> [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], Xiaoqing Luo, [Josef Kittler][josef-kittler]
 
 # Introduction
 
