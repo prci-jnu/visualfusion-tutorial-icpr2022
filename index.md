@@ -5,7 +5,7 @@ layout: post
 
 **Authors:** [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], Xiaoqing Luo, [Josef Kittler][josef-kittler]
 
-# Introduction
+# 1. Introduction
 
 Visual fusion plays a pivotal role in pattern recognition, since the single modality (view) only focuses on the local features and can not handle the overall information. With the rise of different types of sensors, the research object of many computer vision tasks changed from a single modality (RGB) to multi modalities which include infrared (thermal or near) information, depth information (depth camera), hyperspectral image (satellite) and LIDAR information. 
 These multi-modal data show the urgent need for visual fusion theory in real-world scenarios.
@@ -21,9 +21,9 @@ To this end, the tutorial will offer **an overview of all the above plus other r
 
 
 
-# Topics
+# 2. Topics
 
-### Visual fusion basics 
+### 2.1 Visual fusion basics 
 In the era of knowledge explosion, the attention to visual fusion technology has proliferated due to the significant development and availability of different kinds of sensor devices. 
 
 Visual fusion is an important branch of information fusion that originated in the mid-1980s, which attempts to simulate biological perception and cognitive processes of objective reality. The pipeline of the visual fusion system contains four parts: spatiotemporal registration, data preprocessing, data fusion, and data post-processing. Among these, the phase of data fusion is the primary concern, where the useful information from visual sources captured in the same scene is extracted and combined into a compact form of visual information representation, which leads to a more comprehensive, more robust, less redundant and less uncertain system. 
@@ -36,7 +36,7 @@ In the last few decades, both conventional methods like multi-scale analysis and
 Visual fusion makes full use of the complementary and redundant information among multi-modal data. Thereby, different from the broad sense of visual enhancement, it is more like the kind of technology in the field of visual understanding, which constructs compact data that is appropriate and understandable for not only human observers, but also facilitates the subsequent processing and perception of the machine. Due to such characteristics, visual fusion is becoming a critical topic in the pattern recognition community. The widely investigated applications of visual fusion include daily monitoring, medical diagnosis, security check and autonomous driving.
 
 
-### Visual fusion frameworks
+### 2.2 Visual fusion frameworks
 
 he study of visual fusion is made up of two important aspects: the visual fusion methods and performance evaluation. 
 According to the different processing stages for fusion, visual fusion can be classified into three categories: data-level fusion, feature-level fusion and decision-level fusion. Data-level fusion directly performs the fusion process on the raw data sources. 
@@ -55,7 +55,7 @@ Objective methods quantify the fused quality using various mathematical tools li
 The adopted evaluation methods will vary according to the specific tasks, *e.g.*, object recognition and classification. 
 
 
-### Image fusion techniques
+### 2.3 Image fusion techniques
 
 The main purpose of image fusion is to generate a single composite image that contains more complementary features and reduces redundant information from multi-modal source images. Ideally, the fusion algorithm can preserve more useful information into the final fused image, which is a benefit for the downstream computer vision tasks. 
 
@@ -69,7 +69,7 @@ For deep learning-based fusion networks, they can be categorized into three clas
 * In the end-to-end network-based fusion framework, all the image fusion processes are replaced by a specifically designed fusion network. With the appropriate architecture and the carefully designed loss functions, it can achieve better fusion performance.
 
 
-### Visual fusion applications
+### 2.4 Visual fusion applications
 
 Visual fusion has obtained wide attention in many pattern recognition applications. In this section, we will deliver its typical applications, *i.e*., RGB-T tracking and RGB-D tracking.
 
@@ -77,14 +77,14 @@ In particular, visual object tracking is a fundamental research topic in visual 
 Detailed analysis and performance comparison is discussed for both hand-crafted algorithms and deep networks. We also report the potential of RGB-T and RGB-D fusion research in recent academic competitions.
 
 
-# Target Audience
+# 3. Target Audience
 
 This tutorial contains dedicated basics and recent advances in the visual fusion topic, providing a reference for relevant research topics in pattern recognition, *e.g.*, multi-modal recognition, multi-sensor detection, and multi-device imaging. Related academic students, researchers, and product engineers working in the fields of computer vision and pattern recognition and showing interest in the current development of visual fusion are welcome to attend this tutorial. Specialists from different areas who need to integrate the knowledge of visual fusion into their applications are also targeted audiences. The tutorial assumes the most basic knowledge of digital visual data and mathematics. 
 
 Nowadays, we are living in a world with an explosion of multi-modal data. Single-modal data is not sufficient for artificial intelligence to understand the inherent structure and content of the perceived world, thereby degrading their ability to provide a reliable decision. As one of the most important compositions of information, visual processing goes across many scientific fields and much more attention has been put on multi-modal visual fusion. Several visual fusion frameworks are constantly emerging, bringing great achievements in application scenes like object recognition and are conducive to developing intelligent systems that can think and make decisions like a human. To decide which fusion method is of higher performance, the quantitative and qualitative evaluation should be conducted in a systematic way. Thus, this tutorial aims to give a comprehensive introduction to the theory of visual fusion and its significance in pattern recognition, as well as a thorough overview of the commonly accepted visual fusion techniques with their evaluation methods, which may be helpful for researchers to better understand the concept of visual fusion, then some inspirations may be derived about the potential research directions.
 
 
-# Organisers
+# 4. Organisers
 
 <table width="100%" cellpadding="0">
 	<tbody>
@@ -123,7 +123,7 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 </table>
 
 
-# Contact and Preference
+# 5. Contact and Preference
 
 **Lead organiser:** Xiao-Jun Wu, E-mali: wu_xiaojun@jiangnan.edu.cn
 
