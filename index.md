@@ -17,7 +17,7 @@ All these above conditions make visual information fusion studies become a cruci
 * (b) Research on quality evaluation of visual fusion results which is a key issue for visual information fusion, include reference metrics and no-reference metrics; 
 * (c) Research on applications of visual fusion algorithms, which denotes the practical application value of visual fusion studies. 
 
-To this end, the tutorial will offer (a) an overview of all the above plus other related topics and will stress the related algorithmic aspects, such as: (b) Visual fusion frameworks, which contain the visual fusion methods and the performance evaluation; (c) Image fusion techniques, which mainly introduced the deep learning-based fusion networks; d) Visual fusion applications.
+To this end, the tutorial will offer **an overview of all the above plus other related topics** and will stress the related algorithmic aspects, such as: **Visual fusion frameworks**, which contain the visual fusion methods and the performance evaluation; **Image fusion techniques**, which mainly introduced the deep learning-based fusion networks; **Visual fusion applications**.
 
 
 
