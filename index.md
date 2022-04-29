@@ -29,8 +29,8 @@ In the era of knowledge explosion, the attention to visual fusion technology has
 Visual fusion is an important branch of information fusion that originated in the mid-1980s, which attempts to simulate biological perception and cognitive processes of objective reality. The pipeline of the visual fusion system contains four parts: spatiotemporal registration, data preprocessing, data fusion, and data post-processing. Among these, the phase of data fusion is the primary concern, where the useful information from visual sources captured in the same scene is extracted and combined into a compact form of visual information representation, which leads to a more comprehensive, more robust, less redundant and less uncertain system. 
 
 In the last few decades, both conventional methods like multi-scale analysis and the advanced technologies of deep learning have gained breakthroughs in visual fusion tasks. Researchers concluded three basic principles in visual fusion through long-term practise: 
-* (1) the fused visual data should contain all the salient information from multi-modal sources; 
-* (2) no artificial information can be introduced; 
+* (1) The fused visual data should contain all the salient information from multi-modal sources; 
+* (2) No artificial information can be introduced; 
 * (3) Information that is not of interest, e.g. noise, should be suppressed as much as possible. 
 
 Visual fusion makes full use of the complementary and redundant information among multi-modal data. Thereby, different from the broad sense of visual enhancement, it is more like the kind of technology in the field of visual understanding, which constructs compact data that is appropriate and understandable for not only human observers, but also facilitates the subsequent processing and perception of the machine. Due to such characteristics, visual fusion is becoming a critical topic in the pattern recognition community. The widely investigated applications of visual fusion include daily monitoring, medical diagnosis, security check and autonomous driving.
@@ -42,10 +42,10 @@ he study of visual fusion is made up of two important aspects: the visual fusion
 According to the different processing stages for fusion, visual fusion can be classified into three categories: data-level fusion, feature-level fusion and decision-level fusion. Data-level fusion directly performs the fusion process on the raw data sources. 
 
 Then, feature extraction and decision-making are performed on the obtained fused data. It is the basic fusion model with less loss of information and is widely investigated in the community. Typical frameworks include the multi-scale transform, sparse representation, sub-space, deep learning and hybrid. For all of them, whether explicit or implicit, the fusion process can be generally concluded as four steps: 
-* (1) transform the source data into a different representation; 
-* (2) extract the features from the representations to measure the activity level; 
-* (3) design the specific fusion rule; 
-* (4) inversely transform the fused representation into the fused result.
+* (1) Transform the source data into a different representation; 
+* (2) Extract the features from the representations to measure the activity level; 
+* (3) Design the specific fusion rule; 
+* (4) Inversely transform the fused representation into the fused result.
 
 Feature-level fusion is conducted on the feature vectors, which are able to compress the considerable data amount, facilitating the real-time processing. Common methods contain the K- nearest neighbour, cluster compression, neural network and so on. 
 Decision-level fusion is conducted at the highest abstraction level, fusing the decisions made by each sensor in the fusion centre, which is directly targeted at the decision objectives. Such processing methods are of the lowest precision, but are robust to interference with low computation cost. Dempster-Shafer evidence theory, Bayesian estimation and expert system are representative frameworks for decision-level fusion. After achieving the fused results, performance evaluation should be conducted in a subjective and objective way. 
