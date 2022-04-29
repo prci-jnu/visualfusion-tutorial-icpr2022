@@ -12,9 +12,12 @@ These multi-modal data show the urgent need for visual fusion theory in real-wor
 
 Thus, the use of visual fusion approaches has being an important new trend in several application areas, such as military object detection, civilian security, and construction of smart cities etc. For the areas of academic research, visual information fusion can be applied to many computer vision tasks, such as object tracking, semantic segmentation, 3D reconstruction and text-image generation etc. To this end, the visual fusion approaches not only require achieving better fusion performance, but also have to guarantee the generalisation power.
 
-All these above conditions make visual information fusion studies become a crucial research field, covering the following topics: a) Research on visual information fusion algorithms, including machine learning (without deep learning) based methods and deep learning-based networks; b) Research on quality evaluation of visual fusion results which is a key issue for visual information fusion, include reference metrics and no-reference metrics; c) Research on applications of visual fusion algorithms, which denotes the practical application value of visual fusion studies. 
+All these above conditions make visual information fusion studies become a crucial research field, covering the following topics: 
+* (a) Research on visual information fusion algorithms, including machine learning (without deep learning) based methods and deep learning-based networks; 
+* (b) Research on quality evaluation of visual fusion results which is a key issue for visual information fusion, include reference metrics and no-reference metrics; 
+* (c) Research on applications of visual fusion algorithms, which denotes the practical application value of visual fusion studies. 
 
-To this end, the tutorial will offer a) an overview of all the above plus other related topics and will stress the related algorithmic aspects, such as: b) Visual fusion frameworks, which contain the visual fusion methods and the performance evaluation; c) Image fusion techniques, which mainly introduced the deep learning-based fusion networks; d) Visual fusion applications.
+To this end, the tutorial will offer (a) an overview of all the above plus other related topics and will stress the related algorithmic aspects, such as: (b) Visual fusion frameworks, which contain the visual fusion methods and the performance evaluation; (c) Image fusion techniques, which mainly introduced the deep learning-based fusion networks; d) Visual fusion applications.
 
 
 
