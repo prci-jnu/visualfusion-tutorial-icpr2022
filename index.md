@@ -76,7 +76,7 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 # Organisers
 
 
-<div style="with:100%">
+<div >
 <img src="./images/xiaojun-wu.png" width="150px" style="float:left"/>
 Xiao-Jun Wu (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.
 </div>
