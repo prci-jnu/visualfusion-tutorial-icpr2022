@@ -3,11 +3,18 @@ layout: default
 title: "Home"
 ---
 
-{% if site.show_excerpts %}
+<!-- {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
   {% include archive.html title="Posts" %}
-{% endif %}
+{% endif %} -->
 
+<div class="page">
+    <article class="page">
 
+      <div class="entry">
+        {{ content }}
+      </div>
+    </article>
+</div>
 
