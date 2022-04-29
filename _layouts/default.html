@@ -32,7 +32,7 @@
   <a href="" class="title">{{ site.title | escape }}</a>
   <!-- {% include menu.html menu=pages %} -->
   <div>
-  <img src="./images/jiangnan.png" width="200px" alt="Swiss Alps" />
+  <img src="./images/jiangnan_logo.png" width="200px" alt="Swiss Alps" />
   <img src="./images/surrey_logo.svg" width="200px" alt="Swiss Alps" />
   </div>
 </header>
@@ -42,7 +42,8 @@
 {% if site.external %}
 <footer>
   <div>{{ site.description | default: site.title }}</div>
-  {% include menu.html menu=site.external %}
+  <!-- {% include menu.html menu=site.external %} -->
+  <img src="./images/ICPR2022_logo.png" width="200px" alt="Swiss Alps" />
 </footer>
 {% endif %}
 
