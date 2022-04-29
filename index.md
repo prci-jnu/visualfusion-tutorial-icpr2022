@@ -3,7 +3,7 @@ title: "Tutorial Proposal: Visual Fusion for Pattern Recognition"
 layout: post
 ---
 
-<h3>Authors:</h3> [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], Xiaoqing Luo, [Josef Kittler][josef-kittler]
+**Authors:** [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], Xiaoqing Luo, [Josef Kittler][josef-kittler]
 
 # Introduction
 
@@ -75,7 +75,10 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 
 # Organisers
 
-Xiao-Jun Wu (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.
+<div>
+	<img src="./images/xiaojun-wu.png" width="200px" />
+	<p>Xiao-Jun Wu (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.</p>
+</div>
 
 Tianyang Xu (tianyang.xu@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China.
 His research interests include visual tracking and deep learning. 
