@@ -75,18 +75,26 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 
 # Organisers
 
-<table>
+<table width="100%" border="0" cellspacing="15" cellpadding="0">
+	<tbody>
 	<tr>
+		<td>
 		<img src="./images/xiaojun-wu.png" width="150px" style="float:left"/>
-		Xiao-Jun Wu (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.
-		
+		</td>
+		<td>
+		<b>Xiao-Jun Wu</b> (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.
+		</td>
 	</tr>
 	<tr>
+		<td>
 		<img src="./images/tianyang-xu.jpg" width="150px" style="float:left"/>
+		</td>
+		<td>
 		Tianyang Xu (tianyang.xu@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China.
 		His research interests include visual tracking and deep learning. 
-		
+		</td>
 	</tr>
+	</tbody>
 </table>
 
 
