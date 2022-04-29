@@ -81,7 +81,7 @@ Xiao-Jun Wu (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial 
 </div>
 
 <div style="with:100%">
-<img src="./images/tianyang-xu.png" width="150px" style="float:left"/>
+<img src="./images/tianyang-xu.jpg" width="150px" style="float:left"/>
 Tianyang Xu (tianyang.xu@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China.
 His research interests include visual tracking and deep learning. 
 </div>
