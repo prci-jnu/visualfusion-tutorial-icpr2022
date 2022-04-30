@@ -123,11 +123,11 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 </table>
 
 
-# 5. Contact and Preference
+<!-- # 5. Contact and Preference
 
 **Lead organiser:** Xiao-Jun Wu, E-mali: wu_xiaojun@jiangnan.edu.cn
 
-**Preference:** Half-day On-line tutorial
+**Preference:** Half-day On-line tutorial -->
 
 
 
