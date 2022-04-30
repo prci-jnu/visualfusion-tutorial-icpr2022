@@ -3,7 +3,7 @@ title: "Tutorial Proposal: Visual Fusion for Pattern Recognition"
 layout: post
 ---
 
-**Authors:** [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], Xiaoqing Luo, [Josef Kittler][josef-kittler]
+**Authors:** [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], [Xiaoqing Luo][xiaoqing-luo], [Josef Kittler][josef-kittler]
 
 # 1. Introduction
 
@@ -134,4 +134,5 @@ Nowadays, we are living in a world with an explosion of multi-modal data. Single
 [xiao-jnu-wu]: http://ai.jiangnan.edu.cn/info/1013/1500.htm
 [hui-li]: https://hli1221.github.io/
 [tianyang-xu]: https://github.com/XU-TIANYANG
+[xiaoqing-luo]: https://github.com/qqchong
 [josef-kittler]: https://www.surrey.ac.uk/people/josef-kittler
