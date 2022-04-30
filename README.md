@@ -1,3 +1,5 @@
+https://prci-jnu.github.io/imagefusion-tutorial-icpr2022
+
 ---
 title: "About"
 permalink: "/about/"
