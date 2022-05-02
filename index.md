@@ -1,9 +1,15 @@
 ---
-title: "Tutorial Proposal: Visual Fusion for Pattern Recognition"
+title: "Tutorial: Visual Fusion for Pattern Recognition"
 layout: post
 ---
 
 **Authors:** [Tianyang Xu][tianyang-xu], [Xiao-Jun Wu][xiao-jnu-wu], [Hui Li][hui-li], [Xiaoqing Luo][xiaoqing-luo], [Josef Kittler][josef-kittler]
+
+
+# Schedule
+
+Coming soon.
+
 
 # 1. Introduction
 
