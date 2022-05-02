@@ -3,7 +3,7 @@ title: "Tutorial Proposal: Visual Fusion for Pattern Recognition"
 layout: post
 ---
 
-**Authors:** [Xiao-Jun Wu][xiao-jnu-wu], [Tianyang Xu][tianyang-xu], [Hui Li][hui-li], [Xiaoqing Luo][xiaoqing-luo], [Josef Kittler][josef-kittler]
+**Authors:** [Tianyang Xu][tianyang-xu], [Xiao-Jun Wu][xiao-jnu-wu], [Hui Li][hui-li], [Xiaoqing Luo][xiaoqing-luo], [Josef Kittler][josef-kittler]
 
 # 1. Introduction
 
@@ -61,15 +61,15 @@ To follow the tutorial material presented, it is assumed that the attendees will
 	<tbody>
 	<tr>
 		<td>
-		<img src="./images/xiaojun-wu.png" width="100px" style="float:left; margin-right:30px"/>
-		<b>Xiao-Jun Wu</b> (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.
+		<img src="./images/tianyang-xu.jpg" width="100px" style="float:left; margin-right:30px"/>
+		<b>Tianyang Xu</b> (tianyang.xu@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China.
+		His research interests include visual tracking and deep learning. 
 		</td>
 	</tr>
 	<tr>
 		<td>
-		<img src="./images/tianyang-xu.jpg" width="100px" style="float:left; margin-right:30px"/>
-		<b>Tianyang Xu</b> (tianyang.xu@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China.
-		His research interests include visual tracking and deep learning. 
+		<img src="./images/xiaojun-wu.png" width="100px" style="float:left; margin-right:30px"/>
+		<b>Xiao-Jun Wu</b> (wu_xiaojun@jiangnan.edu.cn), Professor in the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research interests include pattern recognition, computer vision, fuzzy systems, neural networks and intelligent systems.
 		</td>
 	</tr>
 	<tr>
