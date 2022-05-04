@@ -23,11 +23,9 @@ The use of the fusion techniques described will be illustrated on different  app
 
 <table width="100%" cellpadding="0">
 	<tbody>
-	<tr>
 		<td>
 		<img src="./images/rgbt-003.gif" width="100px" style="fmargin-right:10px"/>
 		</td>
-	</tr>
 	</tbody>
 </table>
 
