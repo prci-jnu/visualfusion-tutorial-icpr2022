@@ -23,12 +23,17 @@ The use of the fusion techniques described will be illustrated on different  app
 
 <table width="100%" cellpadding="0">
 	<tbody>
-		<tr>
+		<tr width="100%">
 			<td>
 			<img src="./images/rgbt-003.gif" width="100%" />
 			</td>
+		</tr>
+		<tr width="100%">
 			<td>
-			<img src="./images/rgbt-004.gif" width="100%" />
+			<img src="./images/rgbd-001v.gif" width="100%" />
+			</td>
+			<td>
+			<img src="./images/rgbd-001d.gif" width="100%" />
 			</td>
 		</tr>
 	</tbody>
