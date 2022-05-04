@@ -68,7 +68,8 @@ The use of the fusion techniques described will be illustrated on different  app
 	* (a) Pre-trained network approaches
 	* (b) Auto-encoders
 	* (c) End-to-end fusion networks
-
+	
+<img src="./images/fusion-framework.png" width="100%" />
 
 
 ### 2.4 Visual fusion applications
