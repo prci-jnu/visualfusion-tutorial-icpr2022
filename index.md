@@ -75,7 +75,7 @@ The use of the fusion techniques described will be illustrated on different  app
 ### 2.4 Visual fusion applications
 
 * (1) Visible and thermal data fusion for RGB-T tracking.
-<table width="100%" cellpadding="0">
+<table width="60%" cellpadding="0">
 	<tbody>
 		<tr width="100%">
 			<td>
@@ -87,7 +87,7 @@ The use of the fusion techniques described will be illustrated on different  app
 
 
 * (2) Visible and depth data fusion for RGB-D tracking.
-<table width="100%" cellpadding="0">
+<table width="60%" cellpadding="0">
 	<tbody>
 		<tr width="100%">
 			<td>
