@@ -26,6 +26,9 @@ The use of the fusion techniques described will be illustrated on different  app
 		<td>
 		<img src="./images/rgbt-003.gif" width="100px" style="fmargin-right:10px"/>
 		</td>
+		<td>
+		<img src="./images/rgbt-004.gif" width="100px" style="fmargin-right:10px"/>
+		</td>
 	</tbody>
 </table>
 
