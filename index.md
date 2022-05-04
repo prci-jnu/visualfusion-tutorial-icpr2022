@@ -28,7 +28,7 @@ The use of the fusion techniques described will be illustrated on different  app
 			<img src="./images/fusion-focus.gif" width="100%" />
 			</td>
 			<td>
-			<img src="./images/fusion-infrared.gif" width="100%" />
+			<img src="./images/fusion-infrared.gif" width="90%" />
 			</td>
 		</tr>
 		<tr width="100%">
