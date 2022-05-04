@@ -31,8 +31,6 @@ The use of the fusion techniques described will be illustrated on different  app
 		<tr width="100%">
 			<td>
 			<img src="./images/rgbd-001v.gif" width="50%" />
-			</td>
-			<td>
 			<img src="./images/rgbd-001d.gif" width="50%" />
 			</td>
 		</tr>
