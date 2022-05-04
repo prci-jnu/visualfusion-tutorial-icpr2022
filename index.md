@@ -68,8 +68,27 @@ The use of the fusion techniques described will be illustrated on different  app
 ### 2.4 Visual fusion applications
 
 * (1) Visible and thermal data fusion for RGB-T tracking.
-* (2) Visible and depth data fusion for RGB-D tracking.
+<table width="100%" cellpadding="0">
+	<tbody>
+		<tr width="100%">
+			<td>
+			<img src="./images/rgbt-004.gif" width="100%" />
+			</td>
+		</tr>
+	</tbody>
+</table>
 
+
+* (2) Visible and depth data fusion for RGB-D tracking.
+<table width="100%" cellpadding="0">
+	<tbody>
+		<tr width="100%">
+			<td>
+			<img src="./images/rgbd-002v.gif" width="50%" /><img src="./images/rgbd-002d.gif" width="50%" />
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 # 3. Target Audience
 
