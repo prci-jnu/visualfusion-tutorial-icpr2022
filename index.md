@@ -34,8 +34,6 @@ The use of the fusion techniques described will be illustrated on different  app
 	</tbody>
 </table>
 
-<!-- <img src="./images/rgbt-003.gif" width="100%" />
-<img src="./images/rgbt-004.gif" width="100%" /> -->
 
 
 # 2. Topics covered
