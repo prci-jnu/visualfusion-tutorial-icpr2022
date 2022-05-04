@@ -21,7 +21,7 @@ Many pattern recognition tasks, whether carried out by humans or machines are fa
 The use of the fusion techniques described will be illustrated on different  applications, including visual object tracking.
 
 
-<table width="100%" cellpadding="0">
+<!-- <table width="100%" cellpadding="0">
 	<tbody>
 		<tr>
 			<td>
@@ -32,8 +32,10 @@ The use of the fusion techniques described will be illustrated on different  app
 			</td>
 		</tr>
 	</tbody>
-</table>
+</table> -->
 
+<img src="./images/rgbt-003.gif" width="100%" />
+<img src="./images/rgbt-004.gif" width="100%" />
 
 
 # 2. Topics covered
