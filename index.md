@@ -8,7 +8,13 @@ layout: post
 
 # Schedule
 
-Coming soon.
+Tutorial - Visual Fusion for Pattern Recognition
+
+Type: Virtual
+
+Time: 9:00am - 1:00pm EDT (GMT -4)
+
+Location: https://yorku.zoom.us/j/4817817659
 
 
 # 1. Introduction
@@ -124,12 +130,6 @@ To follow the tutorial material presented, it is assumed that the attendees will
 		<td>
 		<img src="./images/huili.jpg" width="100px" style="float:left; margin-right:30px"/>
 		<b>Hui Li</b> (lihui.cv@jiangnan.edu.cn), Lecturer at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China. His research interests include image fusion, and deep learning. 
-		</td>
-	</tr>
-	<tr>
-		<td>
-		<img src="./images/xiaoqing-luo.jpg" width="100px" style="float:left; margin-right:30px"/>
-		<b>Xiaoqing Luo</b> (xqluo@jiangnan.edu.cn), Associate Professor at the School of Artificial Intelligence and Computer Science, Jiangnan University, Wuxi, China. Her research interests include image fusion, pattern recognition, and other problems in image technologies.
 		</td>
 	</tr>
 	<tr>
