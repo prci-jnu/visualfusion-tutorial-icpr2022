@@ -12,7 +12,7 @@ Tutorial - Visual Fusion for Pattern Recognition
 
 Type: Virtual
 
-Time: 9:00am - 1:00pm EDT (GMT -4)
+Time: 9:00am - 1:00pm EDT (GMT -4), Sunday, 21 August
 
 Location: https://yorku.zoom.us/j/4817817659
 
